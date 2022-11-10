@@ -2,7 +2,7 @@
   "providers": [
     "awscloudformation"
   ],
-  "projectName": "orbiauth",
+  "projectName": "aws",
   "version": "3.1",
   "frontend": "flutter",
   "flutter": {

@@ -41,9 +41,9 @@ class _PokedexState extends State<Pokedex> {
   @override
   Widget build(BuildContext context) {
     return Authenticator(
-      initialStep: AuthenticatorStep.signUp,
+      initialStep: AuthenticatorStep.signIn,
       child: MaterialApp(
-        builder: Authenticator.builder(),
+        // builder: Authenticator.builder(),
         debugShowCheckedModeBanner: false,
         title: 'Pokedex',
         themeMode: ThemeMode.system,
