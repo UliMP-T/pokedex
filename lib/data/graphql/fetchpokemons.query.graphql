@@ -1,0 +1,12 @@
+query fetch_pokemons($quantity: Int!){
+  pokemons(first:$quantity){
+    id
+    name
+    number
+        image
+    classification
+    types
+    maxCP
+    maxHP
+  }
+}

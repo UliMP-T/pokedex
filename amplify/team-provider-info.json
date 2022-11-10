@@ -1,0 +1,20 @@
+{
+  "staging": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-orbiauth-staging-225012-authRole",
+      "UnauthRoleArn": "arn:aws:iam::958350255961:role/amplify-orbiauth-staging-225012-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::958350255961:role/amplify-orbiauth-staging-225012-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-orbiauth-staging-225012-deployment",
+      "UnauthRoleName": "amplify-orbiauth-staging-225012-unauthRole",
+      "StackName": "amplify-orbiauth-staging-225012",
+      "StackId": "arn:aws:cloudformation:us-east-1:958350255961:stack/amplify-orbiauth-staging-225012/dee9fb70-6080-11ed-b331-120b28ff0187",
+      "AmplifyAppId": "d1v3rsmkulsamq"
+    },
+    "categories": {
+      "auth": {
+        "orbiauth": {}
+      }
+    }
+  }
+}
